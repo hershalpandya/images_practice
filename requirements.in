@@ -1,0 +1,10 @@
+dash
+matplotlib
+scipy
+numpy
+sklearn
+scikit-image
+plotly
+seaborn
+pooch
+pip-tools
