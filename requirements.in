@@ -10,3 +10,4 @@ pooch
 pip-tools
 opencv-python
 imutils
+seaborn-image
