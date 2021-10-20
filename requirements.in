@@ -8,3 +8,5 @@ plotly
 seaborn
 pooch
 pip-tools
+opencv-python
+imutils

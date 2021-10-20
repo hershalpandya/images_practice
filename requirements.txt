@@ -40,6 +40,8 @@ importlib-metadata==4.8.1
     # via
     #   click
     #   pep517
+imutils==0.5.4
+    # via -r requirements.in
 itsdangerous==2.0.1
     # via flask
 jinja2==3.0.2
@@ -62,6 +64,7 @@ numpy==1.21.2
     #   -r requirements.in
     #   imageio
     #   matplotlib
+    #   opencv-python
     #   pandas
     #   pywavelets
     #   scikit-image
@@ -69,6 +72,8 @@ numpy==1.21.2
     #   scipy
     #   seaborn
     #   tifffile
+opencv-python==4.5.3.56
+    # via -r requirements.in
 packaging==21.0
     # via pooch
 pandas==1.3.3
